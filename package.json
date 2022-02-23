@@ -1,0 +1,13 @@
+{
+  "name": "web-starter",
+  "version": "1.0.0",
+  "description": "This is a template for a basic web development.",
+  "main": "index.js",
+  "scripts": {
+    "website": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "keywords": ["HTML", "SASS", "JS"],
+  "author": "Ugolin Ollé",
+  "license": "MIT"
+}
